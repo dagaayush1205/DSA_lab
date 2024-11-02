@@ -48,6 +48,4 @@ int main(){
   display(HEAD);           
   insertionBeginning(&HEAD,5);
   display(HEAD);
-  insert(&HEAD, 12, 10);   
-  display(HEAD);           
 }
